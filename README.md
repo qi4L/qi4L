@@ -1,5 +1,11 @@
 # Hi,I'm nu1r 👋
 
+🌱 I’m currently learning network security.
+
+📫 How to reach me: nuxm771@163.com
+
+⚡ Fun fact: i just need money... :)
+
 ![](https://camo.githubusercontent.com/0f1a9ce46fbd7f3b045da35133f43738b820641e56809a324a90e793b3ee85f8/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a4d696e6f72692d74793f7468656d653d72756c653334)
 
 ![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
@@ -27,11 +33,3 @@
 ![](https://img.shields.io/badge/css3-brightgreen?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Yak-orange?style=for-the-badge&logo=yak&logoColor=green)
 ***
-
-🌱 I’m currently learning network security.
-
-📫 How to reach me: nuxm771@163.com
-
-⚡ Fun fact: i just need money... :)
-
-
