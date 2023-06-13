@@ -10,7 +10,6 @@
        VULN WEAPONIZED
 - 🎵 EDM  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qi4L&layout=compact" width="400"/>  
 
 > 我们终将是历史的执笔人，站在巨人的肩膀上去探知唯一真相 <br>
 > We'll be the dancers on the stage, don't be afraid of trying.  
