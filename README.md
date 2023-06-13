@@ -14,5 +14,3 @@
 
 > 我们终将是历史的执笔人，站在巨人的肩膀上去探知唯一真相 <br>
 > We'll be the dancers on the stage, don't be afraid of trying.  
-
-<img align="left" src="https://raw.githubusercontent.com/qi4L/qi4L/main/assets/github-contribution-grid-snake.svg" width="400"/>  
