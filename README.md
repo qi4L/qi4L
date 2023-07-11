@@ -1,5 +1,4 @@
 ###     About "qi"🇨🇳
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qi4L&show_icons=true&icon_color=FF0000&text_color=000000&bg_color=ffffff&hide_title=false" width="450"/>
 
 - 🌱 JOIN : SINCE 2016
 - 🧠 C/GO/JAVA/PYTHON PROGRAMMER
