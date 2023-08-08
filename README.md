@@ -5,7 +5,7 @@
 **About "qi4l"🇨🇳**
 
 - 🌱 JOIN : SINCE 2016
-- 🧠 C/GO/JAVA/PYTHON/Rust PROGRAMMER
+- 🧠 C/C++/GO/JAVA/PYTHON/Rust PROGRAMMER
 - 📫 E-mail: nuxm771@163.com
 - 🌊 ~~ACM ICPC PLAYER~~  
      ~~A WEB CTFER, JUST ROOKIE~~ RED TEAM
