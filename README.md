@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/qi4L/qi4L/master/qi4L.svg"/>
+
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=qi4l&count_private=true&show_icons=true" />
 </a>
