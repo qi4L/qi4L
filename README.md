@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/qi4L/qi4L/master/qi4L.svg"/>
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qi4l&count_private=true&show_icons=true" />
+  <img align='right' src="https://github-readme-stats.zohan.tech/api?username=qi4L&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=graywhite">
+
 </a>
 
 **About "qi4l"🇨🇳**
