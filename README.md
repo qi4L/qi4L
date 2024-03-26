@@ -1,8 +1,11 @@
 <img src="https://raw.githubusercontent.com/qi4L/qi4L/master/qi4L.svg"/>
 
 <a href="#">
-  <img align='right' src="https://github-readme-stats.zohan.tech/api?username=qi4L&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=graywhite">
+  <img align='right' width="49.5%" src="https://github-readme-stats.vercel.app/api?username=qi4L&show_icons=true&theme=gruvbox&hide_border=true" />
+</a>
 
+<a href="#">
+  <img align='right' width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shangzeng&theme=gruvbox&hide_border=true" />
 </a>
 
 **About "qi4l"🇨🇳**
