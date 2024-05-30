@@ -4,10 +4,6 @@
   <img align='right' width="49.5%" src="https://github-readme-stats.vercel.app/api?username=qi4L&show_icons=true&theme=gruvbox&hide_border=true" />
 </a>
 
-<a href="#">
-  <img align='right' width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=qi4L&theme=gruvbox&hide_border=true" />
-</a>
-
 **About "qi4l"🇨🇳**
 
 - 🌱 JOIN : SINCE 2016
