@@ -11,6 +11,7 @@
 - 📫 E-mail: nuxm771@163.com
 - 🌊 RED TEAM
 - 🦜 Blog：qi4l.co
+- 🐯 无业，个人从事二进制硬件安全
 
 > 我们终将是历史的执笔人，站在巨人的肩膀上去探知唯一真相 <br>
 > We'll be the dancers on the stage, don't be afraid of trying.  
