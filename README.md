@@ -10,7 +10,7 @@
 - 🧠 C#/C++/Go/JAVA/Python/Rust PROGRAMMER
 - 📫 E-mail: nuxm771@163.com
 - 🌊 RED TEAM
-- 🦜 Blog：
+- 🦜 Blog：qi4l.github.io
 - 🐯 灵活就业中，专注于二进制硬件安全与其他乱七八糟的东西
 
 > 我们终将是历史的执笔人，站在巨人的肩膀上去探知唯一真相 <br>
