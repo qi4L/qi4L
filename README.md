@@ -4,7 +4,7 @@
 
 - 🌱 JOIN : SINCE 2016
 - 🧠 C#/C++/Go/JAVA/Python/Rust PROGRAMMER
-- 📫 E-mail: nuxm771@163.com
+- 📫 E-mail: qi4l@qq.com
 - 🌊 RED TEAM
 - 🦜 Blog：[qi4l.github.io](https://qi4l.github.io/blog/)
 - 🤿 Security Researcher
